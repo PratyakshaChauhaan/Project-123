@@ -22,3 +22,11 @@ h3
     background-color: grey;
     color: white;
 }
+
+canvas
+{
+    border : 5px solid white;
+    background-color: gray;
+    border-radius: 2px;
+    box-shadow: 5px 5px 5px grey;
+}
